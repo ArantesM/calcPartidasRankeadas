@@ -1,0 +1,2 @@
+# calcPartidasRankeadas
+Desafio 2
