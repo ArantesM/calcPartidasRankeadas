@@ -27,3 +27,14 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+#Ignorar diretório de compilação
+/target/
+/build/
+
+# Ignorar arquivos de configuração idea Intellij
+*.iml
+.idea/
+
+# Ignorar arquivos de compilação
+*.class
