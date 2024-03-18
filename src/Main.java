@@ -19,7 +19,7 @@ public class Main {
             rank = "Imortal";
         }
 
-        return ("O herói " +name+ " tem de saldo: " +result+ "está no nível: " +rank);
+        return ("O herói " +name+ " tem de saldo: " +result+ " está no nível: " +rank);
     }
 
     public static void main(String[] args) {
